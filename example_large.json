@@ -1,0 +1,2704 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Category 2",
+      "price": 13.49,
+      "stock": 99,
+      "rating": 3.8,
+      "description": "High-quality product 1 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.2,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 0.6,
+        "dimensions": {
+          "length": 11,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "category": "Category 3",
+      "price": 15.99,
+      "stock": 98,
+      "rating": 4.1,
+      "description": "High-quality product 2 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.4,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 0.7,
+        "dimensions": {
+          "length": 12,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "category": "Category 4",
+      "price": 18.49,
+      "stock": 97,
+      "rating": 4.4,
+      "description": "High-quality product 3 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.0,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 0.8,
+        "dimensions": {
+          "length": 13,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "category": "Category 5",
+      "price": 20.99,
+      "stock": 96,
+      "rating": 4.7,
+      "description": "High-quality product 4 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.2,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 0.9,
+        "dimensions": {
+          "length": 14,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "category": "Category 6",
+      "price": 23.49,
+      "stock": 95,
+      "rating": 3.5,
+      "description": "High-quality product 5 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.4,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.0,
+        "dimensions": {
+          "length": 15,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "category": "Category 7",
+      "price": 25.99,
+      "stock": 94,
+      "rating": 3.8,
+      "description": "High-quality product 6 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.0,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.1,
+        "dimensions": {
+          "length": 16,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "category": "Category 8",
+      "price": 28.49,
+      "stock": 93,
+      "rating": 4.1,
+      "description": "High-quality product 7 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.2,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.2,
+        "dimensions": {
+          "length": 17,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "category": "Category 9",
+      "price": 30.99,
+      "stock": 92,
+      "rating": 4.4,
+      "description": "High-quality product 8 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.4,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.3,
+        "dimensions": {
+          "length": 18,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "category": "Category 10",
+      "price": 33.49,
+      "stock": 91,
+      "rating": 4.7,
+      "description": "High-quality product 9 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.0,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.4,
+        "dimensions": {
+          "length": 19,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "category": "Category 1",
+      "price": 35.99,
+      "stock": 90,
+      "rating": 3.5,
+      "description": "High-quality product 10 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 1",
+        "rating": 4.2,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.5,
+        "dimensions": {
+          "length": 20,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Product 11",
+      "category": "Category 2",
+      "price": 38.49,
+      "stock": 89,
+      "rating": 3.8,
+      "description": "High-quality product 11 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.4,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.6,
+        "dimensions": {
+          "length": 21,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Product 12",
+      "category": "Category 3",
+      "price": 40.99,
+      "stock": 88,
+      "rating": 4.1,
+      "description": "High-quality product 12 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.0,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.7,
+        "dimensions": {
+          "length": 22,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "category": "Category 4",
+      "price": 43.49,
+      "stock": 87,
+      "rating": 4.4,
+      "description": "High-quality product 13 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.2,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.8,
+        "dimensions": {
+          "length": 23,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "category": "Category 5",
+      "price": 45.99,
+      "stock": 86,
+      "rating": 4.7,
+      "description": "High-quality product 14 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.4,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 1.9,
+        "dimensions": {
+          "length": 24,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "category": "Category 6",
+      "price": 48.49,
+      "stock": 85,
+      "rating": 3.5,
+      "description": "High-quality product 15 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.0,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 2.0,
+        "dimensions": {
+          "length": 25,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "category": "Category 7",
+      "price": 50.99,
+      "stock": 84,
+      "rating": 3.8,
+      "description": "High-quality product 16 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.2,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 2.1,
+        "dimensions": {
+          "length": 26,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "category": "Category 8",
+      "price": 53.49,
+      "stock": 83,
+      "rating": 4.1,
+      "description": "High-quality product 17 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.4,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 2.2,
+        "dimensions": {
+          "length": 27,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "category": "Category 9",
+      "price": 55.99,
+      "stock": 82,
+      "rating": 4.4,
+      "description": "High-quality product 18 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.0,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 2.3,
+        "dimensions": {
+          "length": 28,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "category": "Category 10",
+      "price": 58.49,
+      "stock": 81,
+      "rating": 4.7,
+      "description": "High-quality product 19 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.2,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 2.4,
+        "dimensions": {
+          "length": 29,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "category": "Category 1",
+      "price": 60.99,
+      "stock": 80,
+      "rating": 3.5,
+      "description": "High-quality product 20 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 2",
+        "rating": 4.4,
+        "location": "City 1"
+      },
+      "specifications": {
+        "weight": 2.5,
+        "dimensions": {
+          "length": 10,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 21,
+      "name": "Product 21",
+      "category": "Category 2",
+      "price": 63.49,
+      "stock": 79,
+      "rating": 3.8,
+      "description": "High-quality product 21 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.0,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 2.6,
+        "dimensions": {
+          "length": 11,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "Product 22",
+      "category": "Category 3",
+      "price": 65.99,
+      "stock": 78,
+      "rating": 4.1,
+      "description": "High-quality product 22 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.2,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 2.7,
+        "dimensions": {
+          "length": 12,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name": "Product 23",
+      "category": "Category 4",
+      "price": 68.49,
+      "stock": 77,
+      "rating": 4.4,
+      "description": "High-quality product 23 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.4,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 2.8,
+        "dimensions": {
+          "length": 13,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 24,
+      "name": "Product 24",
+      "category": "Category 5",
+      "price": 70.99,
+      "stock": 76,
+      "rating": 4.7,
+      "description": "High-quality product 24 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.0,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 2.9,
+        "dimensions": {
+          "length": 14,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 25,
+      "name": "Product 25",
+      "category": "Category 6",
+      "price": 73.49,
+      "stock": 75,
+      "rating": 3.5,
+      "description": "High-quality product 25 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.2,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.0,
+        "dimensions": {
+          "length": 15,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 26,
+      "name": "Product 26",
+      "category": "Category 7",
+      "price": 75.99,
+      "stock": 74,
+      "rating": 3.8,
+      "description": "High-quality product 26 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.4,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.1,
+        "dimensions": {
+          "length": 16,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 27,
+      "name": "Product 27",
+      "category": "Category 8",
+      "price": 78.49,
+      "stock": 73,
+      "rating": 4.1,
+      "description": "High-quality product 27 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.0,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.2,
+        "dimensions": {
+          "length": 17,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 28,
+      "name": "Product 28",
+      "category": "Category 9",
+      "price": 80.99,
+      "stock": 72,
+      "rating": 4.4,
+      "description": "High-quality product 28 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.2,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.3,
+        "dimensions": {
+          "length": 18,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 29,
+      "name": "Product 29",
+      "category": "Category 10",
+      "price": 83.49,
+      "stock": 71,
+      "rating": 4.7,
+      "description": "High-quality product 29 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.4,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.4,
+        "dimensions": {
+          "length": 19,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 30,
+      "name": "Product 30",
+      "category": "Category 1",
+      "price": 85.99,
+      "stock": 70,
+      "rating": 3.5,
+      "description": "High-quality product 30 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 3",
+        "rating": 4.0,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.5,
+        "dimensions": {
+          "length": 20,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 31,
+      "name": "Product 31",
+      "category": "Category 2",
+      "price": 88.49,
+      "stock": 69,
+      "rating": 3.8,
+      "description": "High-quality product 31 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.2,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.6,
+        "dimensions": {
+          "length": 21,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 32,
+      "name": "Product 32",
+      "category": "Category 3",
+      "price": 90.99,
+      "stock": 68,
+      "rating": 4.1,
+      "description": "High-quality product 32 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.4,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.7,
+        "dimensions": {
+          "length": 22,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 33,
+      "name": "Product 33",
+      "category": "Category 4",
+      "price": 93.49,
+      "stock": 67,
+      "rating": 4.4,
+      "description": "High-quality product 33 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.0,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.8,
+        "dimensions": {
+          "length": 23,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 34,
+      "name": "Product 34",
+      "category": "Category 5",
+      "price": 95.99,
+      "stock": 66,
+      "rating": 4.7,
+      "description": "High-quality product 34 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.2,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 3.9,
+        "dimensions": {
+          "length": 24,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 35,
+      "name": "Product 35",
+      "category": "Category 6",
+      "price": 98.49,
+      "stock": 65,
+      "rating": 3.5,
+      "description": "High-quality product 35 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.4,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 4.0,
+        "dimensions": {
+          "length": 25,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 36,
+      "name": "Product 36",
+      "category": "Category 7",
+      "price": 100.99,
+      "stock": 64,
+      "rating": 3.8,
+      "description": "High-quality product 36 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.0,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 4.1,
+        "dimensions": {
+          "length": 26,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 37,
+      "name": "Product 37",
+      "category": "Category 8",
+      "price": 103.49,
+      "stock": 63,
+      "rating": 4.1,
+      "description": "High-quality product 37 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.2,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 4.2,
+        "dimensions": {
+          "length": 27,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 38,
+      "name": "Product 38",
+      "category": "Category 9",
+      "price": 105.99,
+      "stock": 62,
+      "rating": 4.4,
+      "description": "High-quality product 38 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.4,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 4.3,
+        "dimensions": {
+          "length": 28,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 39,
+      "name": "Product 39",
+      "category": "Category 10",
+      "price": 108.49,
+      "stock": 61,
+      "rating": 4.7,
+      "description": "High-quality product 39 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.0,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 4.4,
+        "dimensions": {
+          "length": 29,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 40,
+      "name": "Product 40",
+      "category": "Category 1",
+      "price": 110.99,
+      "stock": 60,
+      "rating": 3.5,
+      "description": "High-quality product 40 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 4",
+        "rating": 4.2,
+        "location": "City 2"
+      },
+      "specifications": {
+        "weight": 4.5,
+        "dimensions": {
+          "length": 10,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 41,
+      "name": "Product 41",
+      "category": "Category 2",
+      "price": 113.49,
+      "stock": 59,
+      "rating": 3.8,
+      "description": "High-quality product 41 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.4,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 4.6,
+        "dimensions": {
+          "length": 11,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 42,
+      "name": "Product 42",
+      "category": "Category 3",
+      "price": 115.99,
+      "stock": 58,
+      "rating": 4.1,
+      "description": "High-quality product 42 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.0,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 4.7,
+        "dimensions": {
+          "length": 12,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 43,
+      "name": "Product 43",
+      "category": "Category 4",
+      "price": 118.49,
+      "stock": 57,
+      "rating": 4.4,
+      "description": "High-quality product 43 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.2,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 4.8,
+        "dimensions": {
+          "length": 13,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 44,
+      "name": "Product 44",
+      "category": "Category 5",
+      "price": 120.99,
+      "stock": 56,
+      "rating": 4.7,
+      "description": "High-quality product 44 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.4,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 4.9,
+        "dimensions": {
+          "length": 14,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 45,
+      "name": "Product 45",
+      "category": "Category 6",
+      "price": 123.49,
+      "stock": 55,
+      "rating": 3.5,
+      "description": "High-quality product 45 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.0,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.0,
+        "dimensions": {
+          "length": 15,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 46,
+      "name": "Product 46",
+      "category": "Category 7",
+      "price": 125.99,
+      "stock": 54,
+      "rating": 3.8,
+      "description": "High-quality product 46 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.2,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.1,
+        "dimensions": {
+          "length": 16,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 47,
+      "name": "Product 47",
+      "category": "Category 8",
+      "price": 128.49,
+      "stock": 53,
+      "rating": 4.1,
+      "description": "High-quality product 47 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.4,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.2,
+        "dimensions": {
+          "length": 17,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 48,
+      "name": "Product 48",
+      "category": "Category 9",
+      "price": 130.99,
+      "stock": 52,
+      "rating": 4.4,
+      "description": "High-quality product 48 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.0,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.3,
+        "dimensions": {
+          "length": 18,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 49,
+      "name": "Product 49",
+      "category": "Category 10",
+      "price": 133.49,
+      "stock": 51,
+      "rating": 4.7,
+      "description": "High-quality product 49 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.2,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.4,
+        "dimensions": {
+          "length": 19,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 50,
+      "name": "Product 50",
+      "category": "Category 1",
+      "price": 135.99,
+      "stock": 100,
+      "rating": 3.5,
+      "description": "High-quality product 50 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 5",
+        "rating": 4.4,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.5,
+        "dimensions": {
+          "length": 20,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 51,
+      "name": "Product 51",
+      "category": "Category 2",
+      "price": 138.49,
+      "stock": 99,
+      "rating": 3.8,
+      "description": "High-quality product 51 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.0,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.6,
+        "dimensions": {
+          "length": 21,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 52,
+      "name": "Product 52",
+      "category": "Category 3",
+      "price": 140.99,
+      "stock": 98,
+      "rating": 4.1,
+      "description": "High-quality product 52 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.2,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.7,
+        "dimensions": {
+          "length": 22,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 53,
+      "name": "Product 53",
+      "category": "Category 4",
+      "price": 143.49,
+      "stock": 97,
+      "rating": 4.4,
+      "description": "High-quality product 53 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.4,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.8,
+        "dimensions": {
+          "length": 23,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 54,
+      "name": "Product 54",
+      "category": "Category 5",
+      "price": 145.99,
+      "stock": 96,
+      "rating": 4.7,
+      "description": "High-quality product 54 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.0,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 5.9,
+        "dimensions": {
+          "length": 24,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 55,
+      "name": "Product 55",
+      "category": "Category 6",
+      "price": 148.49,
+      "stock": 95,
+      "rating": 3.5,
+      "description": "High-quality product 55 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.2,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 6.0,
+        "dimensions": {
+          "length": 25,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 56,
+      "name": "Product 56",
+      "category": "Category 7",
+      "price": 150.99,
+      "stock": 94,
+      "rating": 3.8,
+      "description": "High-quality product 56 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.4,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 6.1,
+        "dimensions": {
+          "length": 26,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 57,
+      "name": "Product 57",
+      "category": "Category 8",
+      "price": 153.49,
+      "stock": 93,
+      "rating": 4.1,
+      "description": "High-quality product 57 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.0,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 6.2,
+        "dimensions": {
+          "length": 27,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 58,
+      "name": "Product 58",
+      "category": "Category 9",
+      "price": 155.99,
+      "stock": 92,
+      "rating": 4.4,
+      "description": "High-quality product 58 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.2,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 6.3,
+        "dimensions": {
+          "length": 28,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 59,
+      "name": "Product 59",
+      "category": "Category 10",
+      "price": 158.49,
+      "stock": 91,
+      "rating": 4.7,
+      "description": "High-quality product 59 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.4,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 6.4,
+        "dimensions": {
+          "length": 29,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 60,
+      "name": "Product 60",
+      "category": "Category 1",
+      "price": 160.99,
+      "stock": 90,
+      "rating": 3.5,
+      "description": "High-quality product 60 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 6",
+        "rating": 4.0,
+        "location": "City 3"
+      },
+      "specifications": {
+        "weight": 6.5,
+        "dimensions": {
+          "length": 10,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 61,
+      "name": "Product 61",
+      "category": "Category 2",
+      "price": 163.49,
+      "stock": 89,
+      "rating": 3.8,
+      "description": "High-quality product 61 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.2,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 6.6,
+        "dimensions": {
+          "length": 11,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 62,
+      "name": "Product 62",
+      "category": "Category 3",
+      "price": 165.99,
+      "stock": 88,
+      "rating": 4.1,
+      "description": "High-quality product 62 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.4,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 6.7,
+        "dimensions": {
+          "length": 12,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 63,
+      "name": "Product 63",
+      "category": "Category 4",
+      "price": 168.49,
+      "stock": 87,
+      "rating": 4.4,
+      "description": "High-quality product 63 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.0,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 6.8,
+        "dimensions": {
+          "length": 13,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 64,
+      "name": "Product 64",
+      "category": "Category 5",
+      "price": 170.99,
+      "stock": 86,
+      "rating": 4.7,
+      "description": "High-quality product 64 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.2,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 6.9,
+        "dimensions": {
+          "length": 14,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 65,
+      "name": "Product 65",
+      "category": "Category 6",
+      "price": 173.49,
+      "stock": 85,
+      "rating": 3.5,
+      "description": "High-quality product 65 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.4,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.0,
+        "dimensions": {
+          "length": 15,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 66,
+      "name": "Product 66",
+      "category": "Category 7",
+      "price": 175.99,
+      "stock": 84,
+      "rating": 3.8,
+      "description": "High-quality product 66 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.0,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.1,
+        "dimensions": {
+          "length": 16,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 67,
+      "name": "Product 67",
+      "category": "Category 8",
+      "price": 178.49,
+      "stock": 83,
+      "rating": 4.1,
+      "description": "High-quality product 67 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.2,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.2,
+        "dimensions": {
+          "length": 17,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 68,
+      "name": "Product 68",
+      "category": "Category 9",
+      "price": 180.99,
+      "stock": 82,
+      "rating": 4.4,
+      "description": "High-quality product 68 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.4,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.3,
+        "dimensions": {
+          "length": 18,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 69,
+      "name": "Product 69",
+      "category": "Category 10",
+      "price": 183.49,
+      "stock": 81,
+      "rating": 4.7,
+      "description": "High-quality product 69 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.0,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.4,
+        "dimensions": {
+          "length": 19,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 70,
+      "name": "Product 70",
+      "category": "Category 1",
+      "price": 185.99,
+      "stock": 80,
+      "rating": 3.5,
+      "description": "High-quality product 70 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 7",
+        "rating": 4.2,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.5,
+        "dimensions": {
+          "length": 20,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 71,
+      "name": "Product 71",
+      "category": "Category 2",
+      "price": 188.49,
+      "stock": 79,
+      "rating": 3.8,
+      "description": "High-quality product 71 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.4,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.6,
+        "dimensions": {
+          "length": 21,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 72,
+      "name": "Product 72",
+      "category": "Category 3",
+      "price": 190.99,
+      "stock": 78,
+      "rating": 4.1,
+      "description": "High-quality product 72 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.0,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.7,
+        "dimensions": {
+          "length": 22,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 73,
+      "name": "Product 73",
+      "category": "Category 4",
+      "price": 193.49,
+      "stock": 77,
+      "rating": 4.4,
+      "description": "High-quality product 73 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.2,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.8,
+        "dimensions": {
+          "length": 23,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 74,
+      "name": "Product 74",
+      "category": "Category 5",
+      "price": 195.99,
+      "stock": 76,
+      "rating": 4.7,
+      "description": "High-quality product 74 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.4,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 7.9,
+        "dimensions": {
+          "length": 24,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 75,
+      "name": "Product 75",
+      "category": "Category 6",
+      "price": 198.49,
+      "stock": 75,
+      "rating": 3.5,
+      "description": "High-quality product 75 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.0,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 8.0,
+        "dimensions": {
+          "length": 25,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 76,
+      "name": "Product 76",
+      "category": "Category 7",
+      "price": 200.99,
+      "stock": 74,
+      "rating": 3.8,
+      "description": "High-quality product 76 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.2,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 8.1,
+        "dimensions": {
+          "length": 26,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 77,
+      "name": "Product 77",
+      "category": "Category 8",
+      "price": 203.49,
+      "stock": 73,
+      "rating": 4.1,
+      "description": "High-quality product 77 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.4,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 8.2,
+        "dimensions": {
+          "length": 27,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 78,
+      "name": "Product 78",
+      "category": "Category 9",
+      "price": 205.99,
+      "stock": 72,
+      "rating": 4.4,
+      "description": "High-quality product 78 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.0,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 8.3,
+        "dimensions": {
+          "length": 28,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 79,
+      "name": "Product 79",
+      "category": "Category 10",
+      "price": 208.49,
+      "stock": 71,
+      "rating": 4.7,
+      "description": "High-quality product 79 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.2,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 8.4,
+        "dimensions": {
+          "length": 29,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 80,
+      "name": "Product 80",
+      "category": "Category 1",
+      "price": 210.99,
+      "stock": 70,
+      "rating": 3.5,
+      "description": "High-quality product 80 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 8",
+        "rating": 4.4,
+        "location": "City 4"
+      },
+      "specifications": {
+        "weight": 8.5,
+        "dimensions": {
+          "length": 10,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 81,
+      "name": "Product 81",
+      "category": "Category 2",
+      "price": 213.49,
+      "stock": 69,
+      "rating": 3.8,
+      "description": "High-quality product 81 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.0,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 8.6,
+        "dimensions": {
+          "length": 11,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 82,
+      "name": "Product 82",
+      "category": "Category 3",
+      "price": 215.99,
+      "stock": 68,
+      "rating": 4.1,
+      "description": "High-quality product 82 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.2,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 8.7,
+        "dimensions": {
+          "length": 12,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 83,
+      "name": "Product 83",
+      "category": "Category 4",
+      "price": 218.49,
+      "stock": 67,
+      "rating": 4.4,
+      "description": "High-quality product 83 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.4,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 8.8,
+        "dimensions": {
+          "length": 13,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 84,
+      "name": "Product 84",
+      "category": "Category 5",
+      "price": 220.99,
+      "stock": 66,
+      "rating": 4.7,
+      "description": "High-quality product 84 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.0,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 8.9,
+        "dimensions": {
+          "length": 14,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 85,
+      "name": "Product 85",
+      "category": "Category 6",
+      "price": 223.49,
+      "stock": 65,
+      "rating": 3.5,
+      "description": "High-quality product 85 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.2,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.0,
+        "dimensions": {
+          "length": 15,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 86,
+      "name": "Product 86",
+      "category": "Category 7",
+      "price": 225.99,
+      "stock": 64,
+      "rating": 3.8,
+      "description": "High-quality product 86 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.4,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.1,
+        "dimensions": {
+          "length": 16,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 87,
+      "name": "Product 87",
+      "category": "Category 8",
+      "price": 228.49,
+      "stock": 63,
+      "rating": 4.1,
+      "description": "High-quality product 87 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.0,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.2,
+        "dimensions": {
+          "length": 17,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 88,
+      "name": "Product 88",
+      "category": "Category 9",
+      "price": 230.99,
+      "stock": 62,
+      "rating": 4.4,
+      "description": "High-quality product 88 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.2,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.3,
+        "dimensions": {
+          "length": 18,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 89,
+      "name": "Product 89",
+      "category": "Category 10",
+      "price": 233.49,
+      "stock": 61,
+      "rating": 4.7,
+      "description": "High-quality product 89 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.4,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.4,
+        "dimensions": {
+          "length": 19,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 90,
+      "name": "Product 90",
+      "category": "Category 1",
+      "price": 235.99,
+      "stock": 60,
+      "rating": 3.5,
+      "description": "High-quality product 90 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 9",
+        "rating": 4.0,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.5,
+        "dimensions": {
+          "length": 20,
+          "width": 5,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 91,
+      "name": "Product 91",
+      "category": "Category 2",
+      "price": 238.49,
+      "stock": 59,
+      "rating": 3.8,
+      "description": "High-quality product 91 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.2,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.6,
+        "dimensions": {
+          "length": 21,
+          "width": 6,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 92,
+      "name": "Product 92",
+      "category": "Category 3",
+      "price": 240.99,
+      "stock": 58,
+      "rating": 4.1,
+      "description": "High-quality product 92 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.4,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.7,
+        "dimensions": {
+          "length": 22,
+          "width": 7,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 93,
+      "name": "Product 93",
+      "category": "Category 4",
+      "price": 243.49,
+      "stock": 57,
+      "rating": 4.4,
+      "description": "High-quality product 93 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.0,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.8,
+        "dimensions": {
+          "length": 23,
+          "width": 8,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 94,
+      "name": "Product 94",
+      "category": "Category 5",
+      "price": 245.99,
+      "stock": 56,
+      "rating": 4.7,
+      "description": "High-quality product 94 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.2,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 9.9,
+        "dimensions": {
+          "length": 24,
+          "width": 9,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 95,
+      "name": "Product 95",
+      "category": "Category 6",
+      "price": 248.49,
+      "stock": 55,
+      "rating": 3.5,
+      "description": "High-quality product 95 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.4,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 10.0,
+        "dimensions": {
+          "length": 25,
+          "width": 10,
+          "height": 3
+        }
+      }
+    },
+    {
+      "id": 96,
+      "name": "Product 96",
+      "category": "Category 7",
+      "price": 250.99,
+      "stock": 54,
+      "rating": 3.8,
+      "description": "High-quality product 96 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.0,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 10.1,
+        "dimensions": {
+          "length": 26,
+          "width": 11,
+          "height": 4
+        }
+      }
+    },
+    {
+      "id": 97,
+      "name": "Product 97",
+      "category": "Category 8",
+      "price": 253.49,
+      "stock": 53,
+      "rating": 4.1,
+      "description": "High-quality product 97 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.2,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 10.2,
+        "dimensions": {
+          "length": 27,
+          "width": 12,
+          "height": 5
+        }
+      }
+    },
+    {
+      "id": 98,
+      "name": "Product 98",
+      "category": "Category 9",
+      "price": 255.99,
+      "stock": 52,
+      "rating": 4.4,
+      "description": "High-quality product 98 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.4,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 10.3,
+        "dimensions": {
+          "length": 28,
+          "width": 13,
+          "height": 6
+        }
+      }
+    },
+    {
+      "id": 99,
+      "name": "Product 99",
+      "category": "Category 10",
+      "price": 258.49,
+      "stock": 51,
+      "rating": 4.7,
+      "description": "High-quality product 99 with excellent features and durability",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4",
+        "tag5"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.0,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 10.4,
+        "dimensions": {
+          "length": 29,
+          "width": 14,
+          "height": 7
+        }
+      }
+    },
+    {
+      "id": 100,
+      "name": "Product 100",
+      "category": "Category 1",
+      "price": 260.99,
+      "stock": 100,
+      "rating": 3.5,
+      "description": "High-quality product 100 with excellent features and durability",
+      "tags": [
+        "tag1"
+      ],
+      "vendor": {
+        "name": "Vendor 10",
+        "rating": 4.2,
+        "location": "City 5"
+      },
+      "specifications": {
+        "weight": 10.5,
+        "dimensions": {
+          "length": 10,
+          "width": 5,
+          "height": 3
+        }
+      }
+    }
+  ]
+}

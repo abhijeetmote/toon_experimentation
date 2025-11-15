@@ -1,0 +1,4 @@
+products[3]{id,name,price}:
+  1,Laptop,3999.90
+  2,Mouse,149.90
+  3,Headset,499.00

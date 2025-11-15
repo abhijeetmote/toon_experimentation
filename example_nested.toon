@@ -1,0 +1,25 @@
+product:
+  details:
+    basic:
+      id: 1
+      name: Laptop
+      price: 3999.90
+      specifications:
+        processor: "Intel i7"
+        ram: 16GB
+        storage: "512GB SSD"
+    marketing:
+      description: "High-performance laptop"
+      features:
+        display: "15.6 inch"
+        battery: "8 hours"
+        weight:
+          value: 1.8
+          unit: kg
+  inventory:
+    stock:
+      available: 50
+      reserved: 5
+      locations:
+        warehouse_a: 30
+        warehouse_b: 20
