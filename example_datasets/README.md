@@ -23,16 +23,16 @@ python json_vs_toon_comparison.py -j <json_file> -t <toon_file>
 **Examples:**
 ```bash
 # Compare small example files
-python json_vs_toon_comparison.py -j example_datasets/example.json -t example_datasets/example.toon
+python json_vs_toon_comparison.py -j example.json -t example.toon
 
 # Compare large dataset
-python json_vs_toon_comparison.py -j example_datasets/example_large.json -t example_datasets/example_large.toon
+python json_vs_toon_comparison.py -j example_large.json -t example_large.toon
 
 # Compare nested structures
-python json_vs_toon_comparison.py -j example_datasets/example_nested.json -t example_datasets/example_nested.toon
+python json_vs_toon_comparison.py -j example_nested.json -t example_nested.toon
 
 # Compare deeply nested example
-python json_vs_toon_comparison.py -j example_datasets/example_deeply_nested.json -t example_datasets/example_deeply_nested.toon
+python json_vs_toon_comparison.py -j example_deeply_nested.json -t example_deeply_nested.toon
 ```
 
 The script compares token counts across multiple LLM models: GPT-4, GPT-4-turbo, GPT-4o, GPT-3.5-turbo, o1-preview, o1-mini, and base encodings (cl100k_base, o200k_base).
