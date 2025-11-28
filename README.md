@@ -227,10 +227,4 @@ This isn't about JSON vs TOON — it's about choosing the right format for the r
 - Real latency (smaller payloads)
 - Real model capacity (more data in context window)
 
----
 
-## Author
-
-**Created by:** Abhijeet Mote  
-**Email:** abhijeetmote@gmail.com  
-**LinkedIn:** [Follow me on LinkedIn](https://www.linkedin.com/in/abhijeet-mote/)
